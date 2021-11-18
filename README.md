@@ -21,7 +21,9 @@ Javascript React.js, Redux, Node.js, Express...
 - Bootstrap
 
 ## :paperclip: How to reach me:
-
+Buenos aires, Argentina.
+- Email: Mickii.gomez.mg@gmail.com
+- LinkedIn: https://www.linkedin.com/in/micael-alessandro-gomez-fullstack/
 
 
 
