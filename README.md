@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi I'm  Micael  👋
 
 ![image text](https://github.com/micaelgomez/micaelgomez/blob/main/nav/card.png)
 
+I'm 23 years old from Argentina.
+I studied at henry bootcamp and after 800+ hours of coding i found a new passion!
+Some tecnologies i enjoy working with include 
+Javascript React.js, Redux, Node.js, Express...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Rocket App
+- 🌱 I’m currently learning: TypeScript, MongoDB
+
+
+
+## :star: Languages and Tools:
+- HTML5 CSS JavaScript
+- React.js Redux 
+- Node.js Express Sequelize PostgreSQL 
+- Git
+- Bootstrap
+
+## :paperclip: How to reach me:
+
+
+
+
+
+
+
+
 
