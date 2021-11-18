@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![image text](https://github.com/micaelgomez/micaelgomez/blob/main/nav/card.png)
 
 
 Here are some ideas to get you started:
