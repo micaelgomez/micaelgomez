@@ -1,15 +1,15 @@
-### Hi I'm  Micael  👋
+
 
 ![image text](https://github.com/micaelgomez/micaelgomez/blob/main/nav/card.png)
 
-Hello! 👋🏻 
+### Hello! 👋🏻 
 
 My name is Micael Alessandro Gomez 🙋🏻‍♂️ I'm a Full Stack Developer with JavaScript and Node.js 👨🏻‍💻 graduated from Henry Bootcamp (+800 hours). 
 
 My previous performance was as a tender analyst within the pharmaceutical industry. 
 I like and am excited to learn new technologies, undertake activities, work as a team, and achieve proposed goals.
 
-📌 I have 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗶𝗮 carrying out projects with: 
+📌 I have 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰� carrying out projects with: 
 
  🔸 React
  🔸 Redux
